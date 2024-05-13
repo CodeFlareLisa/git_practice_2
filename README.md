@@ -1,3 +1,3 @@
-__Mastering Visual Studio Code (2024)__
+___Mastering Visual Studio Code (2024)___
 
-___Udemy, Alex Dan___
+__Udemy, Alex Dan__
