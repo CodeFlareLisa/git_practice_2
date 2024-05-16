@@ -1,6 +1,11 @@
 Hello!
+branch_vs_test
+
+Yeah!  Power did not go out in the middle of this!
+
 edit
 
 Added an important change
 Added a cool feature
 Hey, we fixed the bug!!!
+
